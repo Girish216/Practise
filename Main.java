@@ -5,6 +5,7 @@ public static void main(String args[]){
 	System.out.println("JAVA");
 	System.out.println("Python");
 	System.out.println("C#");
+	System.out.println("JavaScript");
 }
 
 }
